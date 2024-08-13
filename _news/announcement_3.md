@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Suhas presented his work on AI-assisted discovery of photovoltaic materials and catalysts at the SSF Interdisciplinary Science Summit](https://x.com/rhodes_trust/status/1819289290511102077)
+Suhas presented work on AI-assisted discovery of photovoltaic materials and catalysts at the SSF Interdisciplinary Science Summit [picture](https://x.com/rhodes_trust/status/1819289290511102077)

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Suhas is now a Faculty Affiliate Researcher of the Vector Institute](https://vectorinstitute.ai/)
+Suhas is now Faculty Affiliate Researcher of the [Vector Institute](https://vectorinstitute.ai/)
