@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-06-30 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Suhas is at the 73rd Nobel Laureate Meeting (Physics) at Lindau ([see Twitter thread](https://x.com/suhasm/status/1810741849591796036))
