@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- Suhas is at the 73rd Nobel Laureate Meeting (Physics) at Lindau [see X thread](https://x.com/suhasm/status/1810741849591796036)
+ Suhas is at the 73rd Nobel Laureate Meeting (Physics) at Lindau [(see X thread)](https://x.com/suhasm/status/1810741849591796036)
