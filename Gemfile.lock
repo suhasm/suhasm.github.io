@@ -117,11 +117,15 @@ GEM
     feedjira (3.2.3)
       loofah (>= 2.3.1, < 3)
       sax-machine (>= 1.0, < 2)
+    ffi (1.17.0-arm64-darwin)
     ffi (1.17.0-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
     globalid (1.2.1)
       activesupport (>= 6.1)
+    google-protobuf (4.27.2-arm64-darwin)
+      bigdecimal
+      rake (>= 13)
     google-protobuf (4.27.2-x86_64-linux)
       bigdecimal
       rake (>= 13)
@@ -207,6 +211,7 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     latex-decode (0.4.0)
+    libv8-node (21.7.2.0-arm64-darwin)
     libv8-node (21.7.2.0-x86_64-linux)
     liquid (4.0.4)
     listen (3.9.0)
@@ -242,6 +247,8 @@ GEM
     net-smtp (0.5.0)
       net-protocol
     nio4r (2.7.3)
+    nokogiri (1.16.6-arm64-darwin)
+      racc (~> 1.4)
     nokogiri (1.16.6-x86_64-linux)
       racc (~> 1.4)
     particles-js-rails (2.0.0)
@@ -300,6 +307,8 @@ GEM
       strscan
     rouge (4.3.0)
     safe_yaml (1.0.5)
+    sass-embedded (1.77.8-arm64-darwin)
+      google-protobuf (~> 4.26)
     sass-embedded (1.77.8-x86_64-linux-gnu)
       google-protobuf (~> 4.26)
     sax-machine (1.3.2)
@@ -322,6 +331,7 @@ GEM
     zeitwerk (2.6.16)
 
 PLATFORMS
+  arm64-darwin-23
   x86_64-linux-gnu
 
 DEPENDENCIES

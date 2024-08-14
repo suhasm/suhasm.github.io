@@ -1,15 +1,11 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
-# description: Publications in reversed chronological order. Generated automatically by <a href='https://github.com/inukshuk/jekyll-scholar'>jekyll-scholar</a>.
+title: Google Scholar
 nav: true
-nav_order: 2
+nav_order: 5
 ---
 
-<!-- _pages/publications.md -->
-<div class="publications">
-I don't like writing in general, but so far I have published {% bibliography_count %} articles!
-{% bibliography %}
+<script>window.location.href = "https://scholar.google.com/citations?user=Y5ReiQsAAAAJ&hl=en";</script>
 
-</div>
+If you are not redirected automatically, follow this <a href="https://scholar.google.com/citations?user=Y5ReiQsAAAAJ&hl=en">link to My Google Scholar</a>.
