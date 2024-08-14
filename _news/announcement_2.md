@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Suhas interviews Prof. Stefan W. Hell (Nobel Prize in Chemistry 2014)[(Video excerpt)](https://www.youtube.com/watch?v=U5bjdvIFsMo)
+Suhas interviews Prof. Stefan W. Hell (Nobel Prize in Chemistry 2014)[ (video excerpt)](https://www.youtube.com/watch?v=U5bjdvIFsMo)

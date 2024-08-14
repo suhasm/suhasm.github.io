@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Suhas gave a talk on AI-assisted discovery of solar absorbers and OLED devices at [(Swift Solar)](https://www.swiftsolar.com/)
+Suhas gave a talk on AI-assisted discovery of solar absorbers and OLED devices at [Swift Solar](https://www.swiftsolar.com/)

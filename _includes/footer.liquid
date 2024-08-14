@@ -20,16 +20,16 @@
     {% endif %}
 
     <div class="container">
-      &copy; Copyright {{ site.time | date: '%Y' }}
-      {{ site.first_name }}
-      {{ site.middle_name }}
-      {{ site.last_name }}. {{ site.footer_text }}
+      {{ site.footer_text }}
       {% if site.impressum_path %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
       {% endif %}
       {% if site.last_updated %}
         Last updated: {{ 'now' | date: '%B %d, %Y' }}.
       {% endif %}
+      <br>
+      Based on <a href="https://github.com/tonideleo/tonideleo.github.io">Toni Deleo's version</a> of <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
     </div>
+
   </footer>
 {% endif %}

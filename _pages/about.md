@@ -2,29 +2,36 @@
 layout: about
 title: About
 permalink: /
-subtitle: Aerospace Structural Engineer @ <a href='https://www.es3inc.com'>ES3</a>
+subtitle: Materials Physics, AI-for-Science, Semiconductors
 
 profile:
   align: right
-  image: toni-SWrib.jpg
-  image_circular: false # crops the image to make it circular
+  image: suhas_pic.jpg
+  image_circular: true # crops the image to make it circular
   more_info: 
 
 news: true # includes a list of news items
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Hello there! While I do have a long long name, everyone mostly knows me as Suhas. I was born in Italy and lived there until I was around 19 years old. I grew up in an amazing little town called <a href="https://www.instagram.com/visit_fano/">Fano <i class="fa-brands fa-instagram"></i></a> ( <a href="https://maps.app.goo.gl/TUaqGh5np22fPjAM8">Map <i class="fa-solid fa-map"></i></a> ) , by the beach luckily unbeknownst to most people. If you love green hill with sunflowers, vines, and olive trees, where you can gaze the prettiest Adriatic sea, this city could be for you as well 😉
+<br>
+<br>
 
-Once graduated high school, my grandfather (Nonno), jokingly but not too jokingly kidnapped me and brought me to Seattle, Washington, in the US to start my aerospace engineering studies. After all, the first thing he said when he first held me was "you are gonna become an aerospace engineer like your grandpa"; and here I am.
+I am a [Schmidt Science Fellow](https://schmidtsciencefellows.org/fellow/suhas-mahesh/) at the University of Toronto. Previously, I was a [Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/scholars/rhodes-scholars-class-of-2016/suhas-mahesh/) at the University of Oxford where I completed my [PhD in Condensed Matter Physics](https://www.physics.ox.ac.uk/our-people/mahesh).
 
-I finished my bachelor at University of Washington Seattle (UW) and initially intended to continue my graduate studies at Imperial College, moving back to once Europe (UK, what are you doing?!?). However, while visiting my ex-girlfriend in China, I had a phone call with Prof. Marco Salviato at UW, where he offered me a Ph.D. position if I wanted to continue there. I finally decided to stay in Seattle and in the summer of 2023 I finally finished my Ph.D.
+I unite **experiments**, **computation**, and **machine learning (ML)** to develop materials for **clean energy**, particularly **photovoltaics**. My research is outward-facing, engaging with the public, industry, and policymakers.
 
-And oh, that ex-girlfriend is now my wife ([#technically-the-truth](https://www.reddit.com/r/technicallythetruth/)) met 11 years ago, married for 3, with our first beautiful baby.
+Want to collaborate? Hear about my science? Chat about a problem you have? Get in touch: [suhas.mahesh@utoronto.ca](mailto:suhas.mahesh@utoronto.ca).
 
-In the last two years of my Ph.D I started working with ES3, developing cutting edge computational discrete models for composites. After graduating I was offered an amazing position at the company at the headquarter in San Diego. We moved in the 2023 Fall and currently enjoying the best weather and climate anyone can ask for. If you ever come vist, reach out and we'll bring you around!
+I also moonlight as an expert in Classical Sanskrit and Prakrit literature.
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gxPKnHKTm4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
 
 <!-- SEAN!!!. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
