@@ -3,7 +3,7 @@ layout: page
 title: Climbs
 permalink: /climbs/
 description: A growing collection of fun climbs with friends.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [Washington, California]
 horizontal: false

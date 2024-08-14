@@ -3,7 +3,7 @@ layout: page
 title: submenus
 nav: false
 nav_order: 8
-dropdown: true
+dropdown: false
 children:
   - title: Publicatio
     url: https://scholar.google.com/citations?user=Y5ReiQsAAAAJ&hl=en
