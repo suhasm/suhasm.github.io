@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Materials Physics, AI-for-Science, Semiconductors
+subtitle: Materials Physics, AI-for-Science, Clean Energy
 
 profile:
   align: right
@@ -25,7 +25,7 @@ I unite **experiments**, **computation**, and **machine learning (ML)** to devel
 
 Want to collaborate? Hear about my science? Chat about a problem you have? Get in touch: [suhas.mahesh@utoronto.ca](mailto:suhas.mahesh@utoronto.ca).
 
-I also moonlight as an expert in Classical Sanskrit and Prakrit. Check out my book: _How to Love in Sanskrit_ (HarperCollins 2024). Under contract: Nilakantha's Victory for HUP's Murty Classical Library.
+I moonlight as an expert of classical Sanskrit and Prakrit. Check out my book: <a href="https://www.goodreads.com/book/show/205425671-how-to-love-in-sanskrit"><i>How to Love in Sanskrit</i></a> (HarperCollins 2024). Under contract: Nilakantha's Victory for HUP's Murty Classical Library. I'm also a co-creator of [ambuda.org](https://www.ambuda.org)
 
 <br>
 
