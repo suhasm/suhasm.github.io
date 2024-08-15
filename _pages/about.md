@@ -42,7 +42,7 @@ I moonlight as an expert of classical Sanskrit and Prakrit. Check out my book: <
 <a name="footnote1">1. </a> I have no illusions that this will stop today's web crawlers.
 </p>
   <p style="font-size: 0.8em; margin-top: -10px;" markdown="1">
-  <a name="footnote2">2. </a> [Review by Prof. Victoria Moul (UCL)](https://vamoul.substack.com/p/whats-the-point-of-classical-translation); [an excerpt](assets/pdf/how_to_love_in_sanskrit_excerpt.pdf); buy on   [amazon.in](https://www.amazon.in/How-Love-Sanskrit-Anusha-Rao/dp/9356999805/), [amazon.com](https://www.amazon.com/How-Love-Sanskrit-Anusha-Rao/dp/9356999805/), [abebooks.com](https://www.abebooks.com/servlet/BookDetailsPL?bi=31785397683), [abebooks.co.uk](https://www.abebooks.co.uk/servlet/BookDetailsPL?bi=31785436213)
+  <a name="footnote2">2. </a> [Review by Prof. Victoria Moul (UCL)](https://vamoul.substack.com/p/whats-the-point-of-classical-translation). Read [an excerpt](assets/pdf/how_to_love_in_sanskrit_excerpt.pdf). Buy on   [amazon.in](https://www.amazon.in/How-Love-Sanskrit-Anusha-Rao/dp/9356999805/), [amazon.com](https://www.amazon.com/How-Love-Sanskrit-Anusha-Rao/dp/9356999805/), [abebooks.com](https://www.abebooks.com/servlet/BookDetailsPL?bi=31785397683), [abebooks.co.uk](https://www.abebooks.co.uk/servlet/BookDetailsPL?bi=31785436213)
   </p>
 
 
