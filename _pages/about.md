@@ -12,12 +12,15 @@ profile:
 
 news: true # includes a list of news items
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
 
-<p class="texttt-bold">suhas.msh@gmail.com</p>
+<!-- <p class="texttt-bold">suhas.msh [at] gmail.com</p> -->
+<span class="texttt-bold">suhas.msh [at] gmail.com</span><sup>[1](#footnote1)</sup> <br>
+<span class="texttt-bold">suhas.mahesh [at] utoronto.ca, physics.ox.ac.uk</span>
+<p style="font-size: 0.8em; margin-top: -10px;">Want to chat about something? <a href="https://calendar.app.google/JSuvvguzZFAUuCar8">Book a time</a>.</p>
 <br>
 I am a [Schmidt Science Fellow](https://schmidtsciencefellows.org/fellow/suhas-mahesh/) at the University of Toronto. Previously, I was a [Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/scholars/rhodes-scholars-class-of-2016/suhas-mahesh/) at the University of Oxford where I completed my [PhD in Condensed Matter Physics](https://www.physics.ox.ac.uk/our-people/mahesh).
 
@@ -25,13 +28,23 @@ I unite **experiments**, **computation**, and **machine learning (ML)** to devel
 
 Want to collaborate? Hear about my science? Chat about a problem you have? Get in touch: [suhas.mahesh@utoronto.ca](mailto:suhas.mahesh@utoronto.ca).
 
-I moonlight as an expert of classical Sanskrit and Prakrit. Check out my book: <a href="https://www.goodreads.com/book/show/205425671-how-to-love-in-sanskrit"><i>How to Love in Sanskrit</i></a> (HarperCollins 2024). Under contract: Nilakantha's Victory for HUP's Murty Classical Library. I'm also a co-creator of [ambuda.org](https://www.ambuda.org)
+I moonlight as an expert of classical Sanskrit and Prakrit. Check out my book: <a href="https://www.goodreads.com/book/show/205425671-how-to-love-in-sanskrit"><i>How to Love in Sanskrit</i></a> (HarperCollins 2024)<sup>[2](#footnote2)</sup>. Under contract: Nilakantha's Victory for HUP's Murty Classical Library. I'm also a co-creator of [ambuda.org](https://www.ambuda.org)
 
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gxPKnHKTm4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
+
+<hr>
+
+<p style="font-size: 0.8em; margin-bottom: 10px;">
+<a name="footnote1">1. </a> I have no illusions that this will stop today's web crawlers.
+</p>
+  <p style="font-size: 0.8em; margin-top: -10px;" markdown="1">
+  <a name="footnote2">2. </a> [Review by Prof. Victoria Moul (UCL)](https://vamoul.substack.com/p/whats-the-point-of-classical-translation); [an excerpt](assets/pdf/how_to_love_in_sanskrit_excerpt.pdf); buy on   [amazon.in](https://www.amazon.in/How-Love-Sanskrit-Anusha-Rao/dp/9356999805/), [amazon.com](https://www.amazon.com/How-Love-Sanskrit-Anusha-Rao/dp/9356999805/), [abebooks.com](https://www.abebooks.com/servlet/BookDetailsPL?bi=31785397683), [abebooks.co.uk](https://www.abebooks.co.uk/servlet/BookDetailsPL?bi=31785436213)
+  </p>
+
 
 <!-- SEAN!!!. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
