@@ -16,16 +16,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<br>
-<br>
 
+<p class="texttt-bold">suhas.msh@gmail.com</p>
+<br>
 I am a [Schmidt Science Fellow](https://schmidtsciencefellows.org/fellow/suhas-mahesh/) at the University of Toronto. Previously, I was a [Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/scholars/rhodes-scholars-class-of-2016/suhas-mahesh/) at the University of Oxford where I completed my [PhD in Condensed Matter Physics](https://www.physics.ox.ac.uk/our-people/mahesh).
 
 I unite **experiments**, **computation**, and **machine learning (ML)** to develop materials for **clean energy**, particularly **photovoltaics**. My research is outward-facing, engaging with the public, industry, and policymakers.
 
 Want to collaborate? Hear about my science? Chat about a problem you have? Get in touch: [suhas.mahesh@utoronto.ca](mailto:suhas.mahesh@utoronto.ca).
 
-I also moonlight as an expert in Classical Sanskrit and Prakrit literature.
+I also moonlight as an expert in Classical Sanskrit and Prakrit. Check out my book: _How to Love in Sanskrit_ (HarperCollins 2024). Under contract: Nilakantha's Victory for HUP's Murty Classical Library.
 
 <br>
 

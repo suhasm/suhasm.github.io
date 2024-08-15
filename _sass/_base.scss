@@ -1361,3 +1361,11 @@ ninja-keys::part(ninja-input-wrapper) {
     border-bottom-color: var(--global-divider-color);
   }
 }
+
+.texttt-bold {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  line-height: 1.2; /* Adjust the line height as needed */
+  margin-bottom: 0; /* Remove extra space below the line */
+}
+
