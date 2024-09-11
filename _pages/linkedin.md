@@ -6,7 +6,7 @@ nav: true
 nav_order: 8
 ---
 
-<script>window.location.href = "https://www.linkedin.com/in/suhas-mahesh-0b366a71/";</script>
+<script>window.location.href = "https://www.linkedin.com/in/suhas-mahesh/";</script>
 
-If you are not redirected automatically, follow this <a href="https://www.linkedin.com/in/suhas-mahesh-0b366a71/
+If you are not redirected automatically, follow this <a href="https://www.linkedin.com/in/suhas-mahesh/
 ">link to my LinkedIn profile</a>.
