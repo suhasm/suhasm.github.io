@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Materials Physics, AI-for-Science, Clean Energy
+subtitle: Accelerating Science with AI
 
 profile:
   align: right
@@ -23,13 +23,13 @@ social: false # includes social icons at the bottom of the page
 <p style="font-size: 0.8em; margin-top: -10px;" markdown="1">Want to chat about something? <a href="https://calendar.app.google/JSuvvguzZFAUuCar8">Book unoffice hours</a>. <sup>[2](#footnote2)</sup></p>
 <br>
 
-I am a **materials physicist** building **self-driving labs** using AI to accelerate materials discovery in **photovoltaics**, **semiconductors** and **catalysis**, driving towards decarbonization. 
+I'm a **Scientist** at Eric Schmidt's [**Schmidt Sciences**](https://www.schmidtsciences.org/), where I lead programs on **AI for Science** within the AI & Advanced Computing Institute. Current areas of interest include **AI-assisted materials modeling** and **next-generation compute hardware**.
 
-I am a [Schmidt Science Fellow](https://schmidtsciencefellows.org/fellow/suhas-mahesh/) at the University of Toronto. I have a [PhD in Condensed Matter Physics](https://www.physics.ox.ac.uk/our-people/mahesh) from the University of Oxford where I was a [Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/scholars/rhodes-scholars-class-of-2016/suhas-mahesh/). I am also an Acceleration Consortium Fellow, Faculty Affiliate Researcher at the Vector Institute, and visiting researcher at Oxford University.
+Previously I was a [Schmidt Science Fellow](https://schmidtsciencefellows.org/fellow/suhas-mahesh/) at the [University of Toronto](https://www.utoronto.ca/) and the [Acceleration Consortium](https://acceleration.utoronto.ca/), building **self-driving labs** for photovoltaics, semiconductors, and catalysis. I hold a [PhD in Condensed Matter Physics](https://www.physics.ox.ac.uk/our-people/mahesh) from Oxford, where I was a [Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/scholars/rhodes-scholars-class-of-2016/suhas-mahesh/). I remain a Faculty Affiliate Researcher at the [Vector Institute](https://vectorinstitute.ai/) and a visiting researcher at Oxford.
 
-Some favourite past work: the [first triple-junction solar cell](https://doi.org/10.1016/j.joule.2019.01.007) deposited fully from inks, [using detailed balance theory](https://doi.org/10.1039/C9EE02162K) to resolve a hotly debated semiconductor phase segregation problem, and an influential long-form [technical assessment](https://doi.org/10.1038/s41578-019-0097-0) of the photovoltaics field.
+Some favourite past work: the [first triple-junction solar cell](https://doi.org/10.1016/j.joule.2019.01.007) deposited fully from inks, [detailed balance theory](https://doi.org/10.1039/C9EE02162K) settling a contested semiconductor phase segregation problem, and the most influential (to date) [assessment](https://doi.org/10.1038/s41578-019-0097-0) of where photovoltaics is and is not going.
 
-I moonlight as an expert of classical Sanskrit and Prakrit. Check out my book: <a href="https://www.goodreads.com/book/show/205425671-how-to-love-in-sanskrit"><i>How to Love in Sanskrit</i></a> (HarperCollins 2024)<sup>[3](#footnote3)</sup>. Under contract: Nilakantha's Victory for HUP's Murty Classical Library. I'm also a co-creator of [ambuda.org](https://www.ambuda.org)
+I moonlight as an expert of classical Sanskrit and Prakrit. *[How to Love in Sanskrit](https://www.goodreads.com/book/show/205425671-how-to-love-in-sanskrit)* (HarperCollins 2024)<sup>[3](#footnote3)</sup>, shortlisted for the [2025 ALTA National Translation Award](https://literarytranslators.org/awards/2025-national-translation-awards/). *Nilakantha's Victory* is under contract with Harvard's Murty Classical Library. I'm a co-creator of [ambuda.org](https://www.ambuda.org)
 
 <br>
 

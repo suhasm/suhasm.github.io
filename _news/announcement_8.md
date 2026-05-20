@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper: **Automating the Practice of Science Ñ Opportunities, Challenges, and Implications** is now on [arXiv](https://arxiv.org/abs/2409.05890)!
+New paper: **Automating the Practice of Science â€” Opportunities, Challenges, and Implications** is now on [arXiv](https://arxiv.org/abs/2409.05890)!
